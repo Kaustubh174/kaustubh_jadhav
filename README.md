@@ -9,3 +9,4 @@
 ## 🏗 Projects ##
 
 <br>- __Chat bot using IBM Watson__ (https://github.com/Kaustubh174/ibm_chat_bot)
+<br>- __developing application unsing Figma__ (https://github.com/Kaustubh174/figma_project/blob/main/README.md)
