@@ -13,10 +13,7 @@
 <br>- __developing application unsing Figma__ 
 <br>(https://github.com/Kaustubh174/figma_project/blob/main/README.md)
 <br> 
-## OpenAI API ##
 
-<br>- __Generating API Key__
-<br>(https://github.com/Kaustubh174/genapikey)
 
 
 
