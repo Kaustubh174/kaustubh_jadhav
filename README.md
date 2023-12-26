@@ -14,8 +14,8 @@
 <br>(https://github.com/Kaustubh174/ibm_chat_bot)
 <br>- __developing application unsing Figma__ 
 <br>(https://github.com/Kaustubh174/figma_project/blob/main/README.md)
-<br> 
-
+<br>- __Rain prediction using different ML models__
+<br>(https://github.com/Kaustubh174/Rain_prediction)
 
 
 
