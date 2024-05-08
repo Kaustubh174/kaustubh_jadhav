@@ -17,5 +17,7 @@
 <br>- __Rain prediction using different ML models__
 <br>(https://github.com/Kaustubh174/Rain_prediction)
 
+## Open AI projects ##
 
-
+<br>- __Getting your OpenAI API key__
+<br> 
