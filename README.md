@@ -20,4 +20,5 @@
 ## Open AI projects ##
 
 <br>- __Getting your OpenAI API key__
-<br> 
+<br> (https://github.com/Kaustubh174/genapikey)
+
