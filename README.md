@@ -21,4 +21,6 @@
 
 <br>- __Getting your OpenAI API key__
 <br> (https://github.com/Kaustubh174/genapikey)
+<br>- __Basic OpenAI API call__
+<br>()
 
