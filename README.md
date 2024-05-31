@@ -7,6 +7,8 @@
   <br>(https://coursera.org/share/8fb5fe00ab93bbc17c1a8d08bc4abdfc)
   <br>- __IBM AI Engineering professional certification__
   <br>(https://coursera.org/share/0ebd70b94a9f059bc690e5e1ed76feb1))
+  <br> __OpenAI API with Python Bootcamp: ChatGPT API, GPT-4, DALL-E__
+  <br>(in process)
 <br>
 ## 🏗 Projects ##
 
