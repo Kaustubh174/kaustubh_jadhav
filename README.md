@@ -12,7 +12,7 @@
 - **[Developing Application using Figma](https://github.com/Kaustubh174/figma_project/blob/main/README.md)**
 - **[Rain Prediction using Different ML Models](https://github.com/Kaustubh174/Rain_prediction)**
 
-## OpenAI Projects
+## ֎ OpenAI Projects
 
 - **[Getting your OpenAI API Key](https://github.com/Kaustubh174/genapikey)**
 - **[Basic OpenAI API Call](https://github.com/Kaustubh174/Basic-OpenAI-API-call)**
