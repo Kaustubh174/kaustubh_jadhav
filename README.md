@@ -27,6 +27,6 @@
 <br>(https://github.com/Kaustubh174/Basic-OpenAI-API-call)
 <br>- __Basic Introduction to DALL-E__
 <br>(https://github.com/Kaustubh174/DALL_E_intro)
-<br>- __Zero-shot sengment analysis__
+<br>- __Zero-shot Sentiment Analysis with OpenAI's GPT-3.5-turbo__
 <br>()
 
