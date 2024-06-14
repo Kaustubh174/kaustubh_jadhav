@@ -19,4 +19,6 @@
 - **[Basic Introduction to DALL-E](https://github.com/Kaustubh174/DALL_E_intro)**
 - **[Zero-shot Sentiment Analysis with OpenAI's GPT-3.5-turbo](https://github.com/Kaustubh174/zero-shot_segment_analysis)**
 - **[Chatbot Interaction with OpenAI's GPT-3.5-turbo](https://github.com/Kaustubh174/interactive_chatbot)**
+- **[Healthy Meal Planner with OpenAI's GPT-3.5-turbo](https://github.com/Kaustubh174/Meal_planner)**
+
 
