@@ -20,5 +20,6 @@
 - **[Zero-shot Sentiment Analysis with OpenAI's GPT-3.5-turbo](https://github.com/Kaustubh174/zero-shot_segment_analysis)**
 - **[Chatbot Interaction with OpenAI's GPT-3.5-turbo](https://github.com/Kaustubh174/interactive_chatbot)**
 - **[Healthy Meal Planner with OpenAI's GPT-3.5-turbo](https://github.com/Kaustubh174/Meal_planner)**
+- **[YouTube Podcast Summarizer with OpenAI's Whisper and GPT-3.5 Turbo](https://github.com/Kaustubh174/Youtube_video_summary)**
 
 
