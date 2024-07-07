@@ -25,5 +25,5 @@
 
 ## 🔗 Langchain Projects
 
-- **[Getting your OpenAI API Key](https://github.com/Kaustubh174/genapikey)**
+- **[Basic of Langchain using OpenAI API](https://github.com/Kaustubh174/Basic_langchain)**
 
