@@ -26,4 +26,6 @@
 ## 🔗 Langchain Projects
 
 - **[Basic of Langchain using OpenAI API](https://github.com/Kaustubh174/Basic_langchain)**
+- **[LangChain Caching LLM Response](https://github.com/Kaustubh174/langchain_cache)**
+
 
