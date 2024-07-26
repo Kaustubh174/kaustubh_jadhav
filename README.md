@@ -29,4 +29,5 @@
 - **[LangChain Caching LLM Response](https://github.com/Kaustubh174/langchain_cache)**
 - **[Enhanced Information Retrieval with Langchain, OpenAI, DuckDuckGo, Wikipedia, PythonREPL, and ReAct](https://github.com/Kaustubh174/ReAct_langchain)**
 - **[Custom Memory ChatGPT with langchain](https://github.com/Kaustubh174/-Custom-Memory-ChatGPT-with-langchain)**
+- **[RAG QnA Private Document using langchain, Pinecone and OpenAI](https://github.com/Kaustubh174/RAG-QnA-Private-Document-using-langchain-Pinecone-and-OpenAI)**
 
