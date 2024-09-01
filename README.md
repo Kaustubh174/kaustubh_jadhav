@@ -5,7 +5,7 @@
 - **[IBM Applied AI Professional Certification](https://coursera.org/share/8fb5fe00ab93bbc17c1a8d08bc4abdfc)**
 - **[IBM AI Engineering Professional Certification](https://coursera.org/share/0ebd70b94a9f059bc690e5e1ed76feb1)**
 - **[OpenAI API with Python Bootcamp: ChatGPT API, GPT-4, DALL-E](https://www.udemy.com/certificate/UC-ea392475-ba9a-452a-a3ce-15d946e0af7f/)**
-- **LangChain Mastery:Develop LLM Apps with LangChain & Pinecone** *(in process)*
+- **[LangChain Mastery:Develop LLM Apps with LangChain & Pinecone](https://www.udemy.com/certificate/UC-abb72de7-6585-4f2a-a310-93cbb536bb72/)**
 
 ## 🏗 Projects
 
