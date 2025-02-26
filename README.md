@@ -15,6 +15,7 @@
 ## 🤖 Machine learning Projects
 
 - **[Rain Prediction using Different ML Models](https://github.com/Kaustubh174/Rain_prediction)**
+- **[Binary & Multiclass Classification using Machine Learning](https://github.com/Kaustubh174/Binary_Multiclass_Classification_using_Machine_Learning)**
 
 ## ֎ OpenAI Projects
 
