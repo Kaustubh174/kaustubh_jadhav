@@ -17,7 +17,7 @@
 - **[Rain Prediction using Different ML Models](https://github.com/Kaustubh174/Rain_prediction)**
 - **[Binary & Multiclass Classification using Machine Learning](https://github.com/Kaustubh174/Binary_Multiclass_Classification_using_Machine_Learning)**
 - **[Real Time Object Detection using YOLOv8](https://github.com/Kaustubh174/Real-Time-Object-Detection-using-YOLOv8-and-Streamlit)**
-
+- **[NLP Disaster Tweet Classification with TensorFlow, USE, and RNNs](https://github.com/Kaustubh174/Tensorflow_NLP_LSTM_GRU_Bidirectional_USE)**
 
 ## ֎ OpenAI Projects
 
